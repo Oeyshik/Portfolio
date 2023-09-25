@@ -71,6 +71,16 @@ To get started, clone this repository and run the following commands:
 Visit http://localhost:4200/ in your web browser to see your portfolio.
 
 ## Screenshots
-![Screenshot](https://drive.google.com/uc?id=1ICGEwY6b3Cp8da3DYcEvgf0Mwab3B6I1)
+![Screenshot](https://drive.google.com/uc?id=1uy1FyPF92gElA6tk-siLml7hnOht9ysp)
 
-![Screenshot](https://drive.google.com/uc?id=1lVqavvl4s1kabvO321i_FdYX1Vetmsnk)
+![Screenshot](https://drive.google.com/uc?id=1yabNBUe-n8WNkJKxFJZ9jD7GQ0vsrl-S)
+
+![Screenshot](https://drive.google.com/uc?id=1oHCGlqLRTAY3ZM0a4yi-9jmcj9kfW8m8)
+
+![Screenshot](https://drive.google.com/uc?id=10iNOtlmKZLlniwkPXQ58VtYee-wo3USg)
+
+![Screenshot](https://drive.google.com/uc?id=1brNgR-NzUOJrQzIijhWwQKXJZc2Pn7ya)
+
+![Screenshot](https://drive.google.com/uc?id=159JOD1w3UttI_GIf_P0oJ6KfukZteTCq)
+
+![Screenshot](https://drive.google.com/uc?id=1znl8zhd1NrSJjDNk9lhFFMl7Lx-pPMEI)

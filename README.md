@@ -1,6 +1,6 @@
 # Portfolio Project
 
-A web portfolio showcasing your skills and expertise in various technologies.
+A web portfolio showcasing my skills and expertise in various technologies.
 
 ## Table of Contents
 
@@ -12,10 +12,10 @@ A web portfolio showcasing your skills and expertise in various technologies.
 
 ## Features
 
-- **Home Page**: A welcoming introduction to your portfolio with brief information about you.
-- **Portfolio Page**: Display your projects and work with descriptions.
-- **Services Page**: Showcase your services, tailored to your skills and expertise.
-- **Contact Page**: Provide a way for visitors to get in touch with you.
+- **Home Page**: A welcoming introduction to my portfolio with brief information about me.
+- **Portfolio Page**: Display my projects and work with descriptions.
+- **Services Page**: Showcase my services, tailored to my skills and expertise.
+- **Contact Page**: Provide a way for visitors to get in touch with me.
 - **Header**: Consistent navigation across the site.
 - **Footer**: Contact information and links to social media profiles.
 
@@ -23,33 +23,51 @@ A web portfolio showcasing your skills and expertise in various technologies.
 
 The project structure is organized as follows:
 
-/src
-/app
-/contact
-- contact.component.html
-- contact.component.css
-/footer
-- footer.component.html
-- footer.component.css
-/header
-- header.component.html
-- header.component.css
-/home
-- home.component.html
-- home.component.css
-/portfolio
-- portfolio.component.html
-- portfolio.component.css
-/service
-- service.component.html
-- service.component.css
+- `/src`
+  - `/app`
+    - `/contact`
+      - `contact.component.html`
+      - `contact.component.css`
+      - `contact.component.ts`
+    - `/footer`
+      - `footer.component.html`
+      - `footer.component.css`
+      - `footer.component.ts`
+    - `/header`
+      - `header.component.html`
+      - `header.component.css`
+      - `header.component.ts`
+    - `/home`
+      - `home.component.html`
+      - `home.component.css`
+      - `home.component.ts`
+    - `/portfolio`
+      - `portfolio.component.html`
+      - `portfolio.component.css`
+      - `portfolio.component.ts`
+    - `/service`
+      - `service.component.html`
+      - `service.component.css`
+      - `service.component.ts`
+- `/assets`
+  - `/images`
+- `index.html`
+- `main.ts`
+- `style.css`
+- `angular.json`
+- `app.component.html`
+- `app.component.ts`
+- `app.component.css`
+- `app.module.ts`
+- `app-routing.module.ts`
+- ....
 
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Before beginning, ensure to meet the following requirements:
 
-- Your development environment is set up with Angular.
+- Development environment is set up with Angular.
 - Node.js and npm are installed.
 
 ## How the Portfolio is Made
@@ -62,13 +80,12 @@ This portfolio is built using Angular, a popular JavaScript framework. It levera
 - **Contact Component**: Provides a way for visitors to get in touch.
 - **Header Component**: Consistent navigation.
 - **Footer Component**: Contact information and links to social media profiles.
-
 To get started, clone this repository and run the following commands:
-    ```bash
-    npm install
-    ng serve
+  ```bash
+  npm install
+  ng serve
 
-Visit http://localhost:4200/ in your web browser to see your portfolio.
+Visit http://localhost:4200/ in the web browser to see the portfolio.
 
 ## Screenshots
 ![Screenshot](https://drive.google.com/uc?id=1uy1FyPF92gElA6tk-siLml7hnOht9ysp)

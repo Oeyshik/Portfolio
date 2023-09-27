@@ -1,3 +1,9 @@
 .larger-icon {
   font-size: 40px; /* Adjust the size as needed */
 }
+
+@media (max-width: 768px) {
+  .slider-item {
+    margin-right: 10px; /* Adjust this value to control the spacing on mobile devices */
+  }
+}
